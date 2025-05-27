@@ -1,5 +1,7 @@
 # React Material UI Carousel [![npm version](https://img.shields.io/npm/v/react-material-ui-carousel.svg?style=flat)](https://www.npmjs.com/package/react-material-ui-carousel)
 
+-- Updated to Support MUI 7 and React 19 --
+
 ## Description
 
 A Generic, extendible Carousel UI component for React using [Material UI](https://material-ui.com/)  

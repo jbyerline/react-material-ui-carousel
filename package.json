@@ -1,12 +1,12 @@
 {
-    "name": "react-material-ui-carousel",
+    "name": "react-material-ui-carousel-mui-v7-react-19",
     "version": "4.0.0",
     "license": "MIT",
-    "description": "A Generic, extendible Carousel UI component for React using Material UI",
-    "homepage": "https://learus.github.io/react-material-ui-carousel",
+    "description": "React Material Ul Carousel from Learus with updated dependencies to support @mui v7 and React 19.",
+    "homepage": "https://github.com/jbyerline/react-material-ui-carousel",
     "repository": {
         "type": "git",
-        "url": "https://github.com/Learus/react-material-ui-carousel"
+        "url": "https://github.com/jbyerline/react-material-ui-carousel"
     },
     "keywords": [
         "react",
