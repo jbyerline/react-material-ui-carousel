@@ -1,4 +1,4 @@
-# React Material UI Carousel [![npm version](https://img.shields.io/npm/v/react-material-ui-carousel.svg?style=flat)](https://www.npmjs.com/package/react-material-ui-carousel-mui-v7-react-19)
+# React Material UI Carousel [![npm version](https://img.shields.io/npm/v/react-material-ui-carousel-mui-v7-react-19.svg?style=flat)](https://www.npmjs.com/package/react-material-ui-carousel-mui-v7-react-19)
 
 -- Updated to Support MUI 7 and React 19 --
 
